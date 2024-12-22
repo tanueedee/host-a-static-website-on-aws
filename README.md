@@ -1,3 +1,4 @@
+### Diagram
 
 
 # Host a Static Website on AWS
@@ -85,10 +86,6 @@ systemctl enable httpd
 # Start Apache
 systemctl start httpd
 ```
-
-### Diagram
-Refer to the architecture diagram in the repository for visual representation.
-
 ## Repository
 The GitHub repository contains:
 - Architecture diagram
